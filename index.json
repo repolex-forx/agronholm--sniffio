@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "sniffio",
+  "versions": [
+    {
+      "commit": "95190ad58001f2ce3327ecd600380887b63dd8a7",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:29:23.439181+00:00"
+    }
+  ]
+}
